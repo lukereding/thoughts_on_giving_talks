@@ -1,2 +1,3 @@
 # thoughts_on_giving_talks
-best practices for giving academic talks
+
+A collection of thoughts on best practices for giving academic talks.
