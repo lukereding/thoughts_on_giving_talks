@@ -1,8 +1,11 @@
 # thoughts on giving talks
 
-#### why you should care
-Say you're giving a department seminar. Maybe you anticipate 20-30 people to show up to your 50 minute-long seminar. The people that are comingto your talk are busy but they're putting everything on hold to go listen to you talk for 50 minutes. 20 - 30 man-hours of work are being wasted on you and your talk--that's roughly that amount of work most people get done from Monday - Thursday. Arguably, you have an obligation to give a smart, engaging, interesting talk.
+This is a running list of thoughts and best practices for giving talks. They are a mix of general guiding priciples and specific practices to make talks more engaging, clearer, and more applicable to your audience. But first:
 
+#### why you should care
+Say you're giving a department seminar. Maybe you anticipate 20-30 people to show up to your 50 minute-long seminar. The people coming to your talk are busy but they're putting everything on hold to go listen to you talk for 50 minutes. 20 - 30 man-hours of work are being wasted on you and your talk--that's roughly that amount of work most people get done from Monday - Thursday. Arguably, you have an obligation to give a smart, engaging, interesting talk.
+
+# best practices:
 
 ## have a conversation with your audience; don't lecture
 The best talks I've been to are conversations, where the presenter is leading you through their thought processes and telling a story. Most presenters give more of a lecture than a conversation when giving a talk, but lectures are (honestly) often boring. By giving a lecture we also tend to emulate other lecturers and teachers we've seen, most of which don't give good or compelling presentations. Think of a talk as a conversation between you and your audience, not a lecture.
@@ -35,6 +38,8 @@ This seems really obvious but I find that presenters rarely finish when they're 
 ## practice
 This is related to the above thought. I find that I have to practice my talk out loud _at least_ five times before giving it in front of people. You want to make sure your transitions are smooth and that you know exactly what you're going to say.
 
+## outline your talk first
+Talks, papers, any sort of presentation needs a basic organizing scheme. Spend time outlining what you want to say in your talk, _then_ figure out how to say it. Often I find students focus on the latter instead of the former. The result is usually criminally complicated slides that do not play nice with each other: it's difficult to follow the presenter's logical thought process. Outlining your talk before you start making slides protects you from making this unseemly mistake.
 
 ------------------
 
