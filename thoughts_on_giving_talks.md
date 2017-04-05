@@ -1,3 +1,7 @@
+> The fans of PowerPoint are presenters, rarely audience members.
+
+_Edward Tufte, the Cognitive Style of PowerPoint_
+
 # thoughts on giving talks
 
 This is a running list of thoughts and best practices for giving talks. They are a mix of general guiding priciples and specific practices to make talks more engaging, clearer, and more applicable to your audience. But first:
