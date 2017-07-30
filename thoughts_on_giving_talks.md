@@ -21,9 +21,10 @@ Most of the time, people know less than you think they do. Even if they know wha
 
 Consider two possibilities. The audience knows what you're talking about or they don't. If they know everything and you go over things that people already, the worst case scenario is that people get bored. When you go on to talk about your research, hopefully people will perk back up. If they don't know everything, they will be lost and confused, and you will never get them back to understand your work and how it fits in to a larger picture.
 
-
 ## the focus is on you, not your slides
 No one likes a talk because the slides were good. Bizarrely, when people are flipped out about giving a talk, they sink all their time into slides and hardly any into practicing actually giving the presentation. A presentation should be about you, the speaker, and not the slides. (On his website David Sterns reinforces this idea by encouraging people to use black slides so the people _can't_ focus on what's on your slides while giving a talk.) Slides are a great tool but they should not be a crutch; they should be used sparingly in a minimalistic way that supports your story and what you say; the slides should not be the story. If the projector were to go out you should still be able to give an engaging talk.
+
+Only include information on a slide that is absolutely necessary and you want your audience to absorb. Don't add tangential information or anything that will distract an audience member from the idea you want to communicate with your audience.
 
 ## explain your graphs
 You are used to looking at graphs you produce. Chances are you've made them fifty different ways and their interpretation is insanely obvious to you. It won't be to your audience. This is the first time most of your audience will see a particular graph you show them, so take some time and make sure they understand it:
@@ -44,6 +45,8 @@ This is related to the above thought. I find that I have to practice my talk out
 
 ## outline your talk first
 Talks, papers, any sort of presentation needs a basic organizing scheme. Spend time outlining what you want to say in your talk, _then_ figure out how to say it. Often I find students focus on the latter instead of the former. The result is usually criminally complicated slides that do not play nice with each other: it's difficult to follow the presenter's logical thought process. Outlining your talk before you start making slides protects you from making this unseemly mistake.
+
+## bonus: use a consistant color theme and use color to highlight important information
 
 ------------------
 
