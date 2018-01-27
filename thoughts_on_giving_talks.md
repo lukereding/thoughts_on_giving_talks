@@ -48,6 +48,17 @@ Talks, papers, any sort of presentation needs a basic organizing scheme. Spend t
 
 ## bonus: use a consistant color theme and use color to highlight important information
 
+## a note on graphics
+
+You are used to looking at the graphs in your talks. Chances are you've spent hours looking at dozens of variations of whatever the graph is you're presenting. Your audience will not come armed to your talk with the same advantages.
+
+It’s common to confuse ‘showing data’ with ‘understanding,’ and it’s very easy to show lots of data poorly. Is the point of your talk to impress people with graphics so opaque that they can’t be understood, or to inspire your audience with an interesting finding or surprise them with something they haven’t thought of before? 
+
+You want to show data so that people can grasp a simple idea and ultimately guide them in forming an intuition about a process or relationship. If you think, ‘I can’t think of a better way to show this, I know it might be confusing at first glance,’ chances are you don’t actually know what you want to communicate. First, figure that out. Then strip away the figure piece by piece until that point and nothing else comes across. It’s preferable for a figure to do one thing well than several things very poorly.
+
+There is also a tendency to use figures from papers in talks. This is lazy. Sometimes figures from talks are appropriate, but we generally like to pack in as much as possible into figure papers, where the reader can take as much time as she needs to absorb and understand. A talk is different. Multi-panel figures are cumbersome and bit-heavy. Axis labels are hard to read from far away. Nuanced points we make in papers are assumed or glossed over in a talk. Remake your figures and make them simpler and more digestible for your viewer.
+
+
 ------------------
 
 This website (http://www.howtogiveatalk.com/) is also a great resource.
