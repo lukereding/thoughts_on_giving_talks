@@ -11,7 +11,7 @@ Say you're giving a department seminar. Maybe you anticipate 20-30 people to sho
 
 # best practices:
 
-## have a conversation with your audience; don't lecture
+## have a conversation with your audience. don't lecture
 The best talks I've been to are conversations, where the presenter is leading you through their thought processes and telling a story. Most presenters give more of a lecture than a conversation when giving a talk, but lectures are (honestly) often boring. By giving a lecture we also tend to emulate other lecturers and teachers we've seen, most of which don't give good or compelling presentations. Think of a talk as a conversation between you and your audience, not a lecture.
 
 ## assume people know less than you think they do
@@ -20,6 +20,9 @@ Presenters, especially grad students, often feel like imposters that have to pro
 Most of the time, people know less than you think they do. Even if they know what you're saying, if you're presenting in an interesting way on an interesting topic, it isn't the end of the world to hear some things you already know.
 
 Consider two possibilities. The audience knows what you're talking about or they don't. If they know everything and you go over things that people already, the worst case scenario is that people get bored. When you go on to talk about your research, hopefully people will perk back up. If they don't know everything, they will be lost and confused, and you will never get them back to understand your work and how it fits in to a larger picture.
+
+## get excited
+When you're excited about what you're talking about, people like your talk. Enthusiam is infectous. Even if a subject matter isn't all that interesting to me, if the speaker is really excited about the subject, I get drawn in. Presumably you're giving a talk about something you've done or something you're interested in. Show the audience that you're excited about it! Walk around the room, gesticualte, vary your voice.
 
 ## the focus is on you, not your slides
 No one likes a talk because the slides were good. Bizarrely, when people are flipped out about giving a talk, they sink all their time into slides and hardly any into practicing actually giving the presentation. A presentation should be about you, the speaker, and not the slides. (On his website David Sterns reinforces this idea by encouraging people to use black slides so the people _can't_ focus on what's on your slides while giving a talk.) Slides are a great tool but they should not be a crutch; they should be used sparingly in a minimalistic way that supports your story and what you say; the slides should not be the story. If the projector were to go out you should still be able to give an engaging talk.
